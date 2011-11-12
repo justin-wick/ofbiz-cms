@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+1 update /CMS/specialpurpose/cmsbackend/config/cmsupload.properties
+  cmsupload.properties is upload server file path.
+  修改 /CMS/specialpurpose/cmsbackend/config/cmsupload.properties
+  cmsupload.properties 是 上传服务器的文件路径
