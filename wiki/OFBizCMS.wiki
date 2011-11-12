@@ -1,4 +1,4 @@
-#labels OFBizCMS,OFBizCMS,OFBizCMS
+#labels OFBizCMS,OFBiz,CMS
 OFBizCMS是基于OFBiz框架的CMS系统，集合了邮件，电子商务，ERP，站点静态化，流程管理，站点关系等等功能。你得到的不仅仅是CMS，你同时还能得到一套业务规范的ERP,电子商务应用。由于采用java作为开发语言，因此它与生俱来就拥有了强大、稳定、安全、高效、跨平台的特点。
 
 支持大用户量这是OFBizCMS的亮点。集群部署等问题，在OFBizCMS中都得到的有效的解决，让你可以方便的集群更多的机器，集群，一切变得如此简单。
