@@ -1,5 +1,4 @@
 #labels QuickStart
-
 = Introduction =
 
 Quick Start
@@ -11,3 +10,7 @@ Quick Start
   cmsupload.properties is upload server file path.
   修改 /CMS/specialpurpose/cmsbackend/config/cmsupload.properties
   cmsupload.properties 是 上传服务器的文件路径
+
+
+
+2 https://code.google.com/p/ofbiz-cms/source/browse/#svn%2Ftags
